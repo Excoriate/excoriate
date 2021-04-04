@@ -8,7 +8,7 @@ I'm tech engineer, with a broad experience working in e-commerce, Site Reliabili
 - 👨‍👩‍👧‍👦 Father of two amazingly beautiful lives (Catalina & Alexander) and husband full time!
 
 #### Where you can find me?
-- 🙋🏻‍♂️I'm sorry, I don't have social networks (twitter), the only one that I have is Linkedin for proffessional purposes. 
+- 🙋🏻‍♂️I'm sorry, I don't have social networks (twitter, facebook, instagram or similar), the only one that I have is Linkedin for proffessional purposes. 
 [My linkedin profile](https://www.linkedin.com/in/alextorresruiz/)
 - Or... you can reach me out throughout email 📧 (alex_torres@outlook.com / alex@ideaup.cl)
 
