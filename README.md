@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Alex 🚀
 
 <!--
 **Excoriate/excoriate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## What I do?
+I'm tech engineer, with a broad experience working in e-commerce, Site Reliability Engineering, DevOps and Cloud Engineering. Currently located in the Netherlands 🇳🇱. I'm an stoic apprentice, strongly adicted to books and feeding my brain (and soul?) with knowledge, phylosofy and learning how to live a better life with the maximum virtue that I can achieve. 🧖‍
 
 Here are some ideas to get you started:
 
