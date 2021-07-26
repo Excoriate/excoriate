@@ -10,7 +10,7 @@ I'm tech engineer, with a broad experience working in e-commerce, Site Reliabili
 #### Where you can find me?
 - 🙋🏻‍♂️I'm sorry, I don't have social networks (twitter, facebook, instagram or similar), the only one that I have is Linkedin for proffessional purposes. 
 [My linkedin profile](https://www.linkedin.com/in/alextorresruiz/)
-- Or... you can reach me out throughout email 📧 (alex_torres@outlook.com / alex@ideaup.cl), [schedule a call](https://calendly.com/alextorresr/30min-call-general)
+- Or... you can reach me out throughout email 📧 (alex_torres@outlook.com / alex@ideaup.cl), or schedule a call (Calendly) [schedule a call 15 min](https://calendly.com/alextorresr/15min-general) / [schedule a call 30 min](https://calendly.com/alextorresr/30min-call-general)
 
 <!--
 **Excoriate/excoriate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
