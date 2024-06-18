@@ -1,17 +1,18 @@
 ### Hi there 👋, I'm Alex 🚀
 #### Who I am?
-I'm tech engineer, with a broad experience working in e-commerce, Site Reliability Engineering, DevOps and Cloud Engineering. Currently located in the Netherlands 🇳🇱. I'm an stoic apprentice, strongly adicted to books and feeding my brain (and soul?) with knowledge, phylosofy and learning how to live a better life with the maximum virtue that I can achieve. 🧖‍
+I'm tech engineer, with a broad experience working in e-commerce, streaming services, and digital retail. I live in the Netherlands 🇳🇱. I'm an stoic apprentice, strongly adicted to books and feeding my brain (and soul?) with knowledge, philosophy and learning how to live a better life with the maximum virtue that I can achieve. I'm just a simple human aware of my own ignorance. 🧖‍
 
 #### What I usually do?
-- 👨‍💻 SRE and Platform engineering stuffs in general. There're too much techonologies to name, right? :D
+- 👨‍💻 Mostly platform engineering, Developer Experience, and I love OSS ❤️
+- 💰 Indie Hacker
 - 🚀 CTO of [IdeaUP](www.ideaup.cl)
-- 👨‍👩‍👧‍👦 Father of two amazingly beautiful lives (Catalina & Alexander) and husband full time!
+
+And the most important duty! 👨‍👩‍👧‍👦 Father of two amazingly beautiful lives (Catalina & Alexander) and husband full time!
 
 #### Where you can find me?
-- 🙋🏻‍♂️I'm sorry, I don't have social networks (twitter, facebook, instagram or similar), the only one that I have is Linkedin for proffessional purposes. 
+- 🙋🏻‍♂️I don't have social networks (twitter, facebook, instagram or similar), the only one that I have is Linkedin for proffessional purposes. 
 [My linkedin profile](https://www.linkedin.com/in/alextorresruiz/)
-- Or... you can reach me out throughout email 📧 (alex_torres@outlook.com / alex@ideaup.cl), or schedule a call (Calendly) [schedule a call 15 min](https://calendly.com/alextorresr/15min-general) / [schedule a call 30 min](https://calendly.com/alextorresr/30min-call-general)
-
+- Or... you can reach me out throughout email 📧 (alex_torres@outlook.com)
 <!--
 **Excoriate/excoriate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
