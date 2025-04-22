@@ -1,17 +1,44 @@
-### Hi there 👋, I'm Alex
+### Hi there 👋, I'm Alex  
 ---
 
-#### Who am I?
-I’m a tech engineer based in the Netherlands 🇳🇱, with broad experience in tech (Staff, Principal roles). A Stoic apprentice and lifelong learner, I’m addicted to books, philosophy, and the pursuit of knowledge. Sometimes, I write code 👨🏻‍💻.
+#### 🧠 Who am I?  
+I'm a tech engineer based in the Netherlands 🇳🇱, with extensive experience in Staff and Principal engineering roles.  
+A Stoic apprentice, lifelong learner, and book addict — intrigued by consciousness/mind, and seeking knowledge.  
+Ah... Sometimes, I write code 👨🏻‍💻.  
 
-#### What am I good at?
-- 👨‍💻 Staff/Principal Platform Engineer by day, Magician/philosopher by night 🌙
-- 🚀 CTO of [IdeaUP](www.ideaup.cl)
-- 🤖 AI Engineer enthusiast
+---
 
-- ⚙️ I use daily: `.go`, `.rs`, `.tf`, `.hcl`, `dagger.io`, `github/gitlab`, `containers`
-- 🤖 These days crafting and building a lot of `AI agents` and `MCP Servers`
-- 💬 Ping me for freelance work, consultancy, or OSS in `k8`, `AWS`, `DevEx`, `AI`, `IaC`, `MCP`, and `fullstack` development.
+#### ⚒️ What do I do?  
+- 👨‍💻 Staff/Principal Platform Engineer by day — magician & philosopher by night 🌙  
+- 🚀 CTO at [IdeaUP](https://www.ideaup.cl)  
+- 🤖 AI Engineer & indie hacker obsessed with intelligent systems  
+- 🧠 Currently focused on: `AI agents`, `DevEx`, and building `MCP Servers`  
+- 💬 Available for freelance work, consulting, or OSS in:
+`Kubernetes`, `AWS`, `AI`, `Iac`, `MCP`, `DevEx`, and full-stack development (MVPs, NextJS)  
 
-#### Where can you find me?
-- Find me on LinkedIn [My LinkedIn profile](https://www.linkedin.com/in/alextorresruiz/)
+---
+
+#### 🛠️ What am I good at?  
+- Engineering leadership (Staff/Principal roles)  
+- Systems design & architecture  
+- Developer Experience (DevEx)  
+- Infrastructure as Code: `Terraform`, `Terragrunt`, `Pulumi`  
+- Cloud infrastructure: `AWS`, `GCP`, `k8s`, `Serverless`  
+- Languages: `.go`, `.rs`, `.tf`, `.hcl`, `Python`, `JavaScript`  
+- CI/CD & automation: `GitHub Actions`, `GitLab CI`, `Dagger.io`  
+- Obsessed with clean code, radical simplicity and developer experience
+
+---
+
+#### ❤️ I love Open Source  
+I'm passionate about OSS and always tinkering with ideas and tools that empower engineers.  
+Check out some of my recent projects:
+
+- 🔧 [`terragrunt-ref-arch-v3`](https://github.com/Excoriate/terragrunt-ref-arch-v3) – Scalable, opinionated Terragrunt architecture  
+- 📚 [`mcp-terragrunt-docs`](https://github.com/Excoriate/mcp-terragrunt-docs) – MCP documentation template with AI-powered generation  
+- 🧱 [`terraform-registry-module-template`](https://github.com/Excoriate/terraform-registry-module-template) – Template for building Terraform registry modules
+
+---
+
+#### 🌍 Where to find me  
+- 💼 [LinkedIn — Alex Torres Ruiz](https://www.linkedin.com/in/alextorresruiz/)  
