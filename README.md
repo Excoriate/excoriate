@@ -1,31 +1,14 @@
 ### Hi there 👋, I'm Alex 🚀
-#### Who I am?
-I'm tech engineer, with a broad experience working in e-commerce, streaming services, and digital retail. I live in the Netherlands 🇳🇱. I'm an stoic apprentice, strongly adicted to books and feeding my brain (and soul?) with knowledge, philosophy and learning how to live a better life with the maximum virtue that I can achieve. I'm just a simple human aware of my own ignorance. 🧖‍
+#### Who am I?
+I’m a tech engineer based in the Netherlands 🇳🇱, with broad experience in tech (Staff, Principal roles). A Stoic apprentice and lifelong learner, I’m addicted to books, philosophy, and the pursuit of knowledge. Sometimes, I write code 👨🏻‍💻.
 
-#### What I usually do?
-- 👨‍💻 Mostly platform engineering, Developer Experience, and I love OSS ❤️
-- 💰 Indie Hacker
+#### What am I good at?
+- 👨‍💻 Staff/Principal Platform Engineer by day, Magician/philosopher by night 🌙
 - 🚀 CTO of [IdeaUP](www.ideaup.cl)
+- 🤖 AI Engineer enthusiast
 
-And the most important duty! 👨‍👩‍👧‍👦 Father of two amazingly beautiful lives (Catalina & Alexander) and husband full time!
+---
+- ⚙️ I use daily: `.go`, `.rs`, `.tf`, `.hcl`, `dagger.io`, `github/gitlab`, `containers`
 
-#### Where you can find me?
-- 🙋🏻‍♂️I don't have social networks (twitter, facebook, instagram or similar), the only one that I have is Linkedin for proffessional purposes. 
-[My linkedin profile](https://www.linkedin.com/in/alextorresruiz/)
-- Or... you can reach me out throughout email 📧 (alex_torres@outlook.com)
-<!--
-**Excoriate/excoriate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Where can you find me?
+- Find me on LinkedIn [My LinkedIn profile](https://www.linkedin.com/in/alextorresruiz/)
