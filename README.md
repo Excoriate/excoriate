@@ -2,17 +2,17 @@
 ---
 
 #### 🧠 Who am I?  
-I'm a tech engineer based in the Netherlands 🇳🇱, with extensive experience in Staff and Principal engineering roles.  
+I'm a engineer based in the Netherlands 🇳🇱, with extensive experience in Staff and Principal engineering roles.  
 A Stoic apprentice, lifelong learner, and book addict — intrigued by consciousness/mind, and seeking knowledge.  
-Ah... Sometimes, I write code 👨🏻‍💻.  
+Ah... Sometimes, I write code for fun 👨🏻‍💻.  
 
 ---
 
 #### ⚒️ What do I do?  
 - 👨‍💻 Staff/Principal Platform Engineer by day — magician & philosopher by night 🌙  
 - 🚀 CTO at [IdeaUP](https://www.ideaup.cl)  
-- 🤖 AI Engineer & indie hacker obsessed with intelligent systems  
-- 🧠 Currently focused on: `AI agents`, `DevEx`, and building `MCP Servers`  
+- 🤖 AI Engineer & Indie Hacker obsessed with intelligent systems  
+- 🧠 Currently focused on: `AI agents`, `DevEx`, and Open Source. 
 - 💬 Available for freelance work, consulting, or OSS in:
 `Kubernetes`, `AWS`, `AI`, `Iac`, `MCP`, `DevEx`, and full-stack development (MVPs, NextJS)  
 
